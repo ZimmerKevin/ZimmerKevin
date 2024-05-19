@@ -1,6 +1,6 @@
 # :speech_balloon:  About me
 
-<p >I am a Frontend Developer specializing in JavaScript, TypeScript, and React. I enjoy creating dynamic and user-friendly interfaces, always aiming to enhance user experience.</p>
+<p align="center"><b>I am a Frontend Developer specializing in JavaScript, TypeScript, and React. I enjoy creating dynamic and user-friendly interfaces, always aiming to enhance user experience.</b></p>
 
 # <img width="40px" src="https://cdn-icons-png.freepik.com/512/6062/6062646.png"> My knowledge of technology
 
