@@ -1,3 +1,5 @@
+![](https://github.com/ZimmerKevin/zimmerkevin/blob/main/Banner.png)
+
 # :speech_balloon:  About me
 
 <p align="center"><b>I am a Frontend Developer specializing in JavaScript, TypeScript, and React. I enjoy creating dynamic and user-friendly interfaces, always aiming to enhance user experience.</b></p>
