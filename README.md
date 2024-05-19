@@ -4,7 +4,7 @@
 
 # My knowledge of technology
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <h3>Frontend</h3>
