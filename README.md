@@ -35,9 +35,7 @@
 
 # :floppy_disk: Projects
 
-## 1st Project
-### Live Site: PAGE
-### Code: PAGE
+## Work in progress
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zimmerkevin&theme=react) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zimmerkevin&theme=react)
